@@ -1,0 +1,15 @@
+@import "article_text.css";
+@import "article_title.css";
+@import "article_image.css";
+#principale{
+    background-color: beige;
+}
+#primo{
+    margin-top: 76px;
+}
+#titolo{
+    margin-bottom: 34px;
+}
+#ultimo{
+    margin-bottom: 35px;
+}

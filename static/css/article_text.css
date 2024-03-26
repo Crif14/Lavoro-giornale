@@ -1,0 +1,13 @@
+.par{
+    font-family: 'Overpass Mono', monospace;
+    font-size: 18;
+    line-height: 1,33;
+}
+
+#firma{
+    font-weight: bold;
+    font-size: 22px;
+}
+.margine{
+    margin-bottom: 20px;
+}
